@@ -10,5 +10,7 @@ public class GitTest02 {
         System.out.println("xxxxxxxxxxxxxxx");
         System.out.println("xyyyyyyyyyyyyyy");
         System.out.println("本地库更新上传远程库");
+        System.out.println("本地库再次更新");
+
     }
 }
