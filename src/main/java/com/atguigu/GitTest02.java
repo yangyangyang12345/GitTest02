@@ -9,5 +9,6 @@ public class GitTest02 {
         System.out.println("bbbbbbbbbbbbb"); 
         System.out.println("xxxxxxxxxxxxxxx");
         System.out.println("xyyyyyyyyyyyyyy");
+        System.out.println("远程库更改，在更新，如果没更新会怎样？？");
     }
 }
