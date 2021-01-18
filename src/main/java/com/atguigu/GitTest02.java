@@ -11,6 +11,7 @@ public class GitTest02 {
         System.out.println("xyyyyyyyyyyyyyy");
         System.out.println("本地库更新上传远程库");
         System.out.println("本地库再次更新");
+        System.out.println("pull测试，远程库更新，本地库未更新");
 
     }
 }
